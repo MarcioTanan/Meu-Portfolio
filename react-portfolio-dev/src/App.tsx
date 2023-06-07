@@ -1,10 +1,9 @@
 import './App.css'
 
-function App() {
- 
+function App() { 
   return (
     <>
-      <h1>App</h1>
+      <h1 className="text-4xl underline font-bold">App test</h1>
     </>
   )
 }
