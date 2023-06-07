@@ -1,7 +1,11 @@
 export function About() {
   return(
-    <>
-    <h2 className="text-4xl underline font-bold">About test</h2>
-   </>
+    <section className="container mx-auto my-4 max-w-5xl p-4">
+    <div className="p-4 text-center">
+    <h2>
+      <span></span>
+    </h2>
+    </div>
+   </section>
   )
 } 
