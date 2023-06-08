@@ -14,9 +14,7 @@ export function Skills() {
     {
       name: "Curso de Desenvolvimento Mobile | Dev Samurai",
     },
-    {
-      name: "Curso de Desenvolvimento Mobile | Dev Samurai",
-    },
+  
   ]
 
   const skills = [
@@ -97,7 +95,7 @@ export function Skills() {
                     />
                   </div>
                   <div className="w-full flex-grow">
-                    <h4 className="font-headlin text-gray-900">{skill.name}</h4>
+                    <h4 className="font-headline text-gray-900">{skill.name}</h4>
                     <div className="h-2.5 w-full rounded-full bg-white">
                       <div
                         className="h-2.5 rounded-full bg-blue-600"
