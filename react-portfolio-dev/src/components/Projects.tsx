@@ -16,7 +16,7 @@ export function Projects() {
       image:
         "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHdlYnNpdGVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
       link: "#",
-      colSpan: "col-span-1 md:col-span-2",
+      colSpan: "col-span-1",
     },
     {
       title: "Projeto 3",
@@ -42,6 +42,14 @@ export function Projects() {
       link: "#",
       colSpan: "col-span-1",
     },
+    {
+      title: "Projeto 6",
+      description: "Descrição do projeto 4",
+      image:
+        "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      link: "#",
+      colSpan: "col-span-1",
+    },
   ]
 
   return (
@@ -57,7 +65,7 @@ export function Projects() {
             </h2>
             <p className="relative text-sm text-gray-400">
               Alguns dos projetos pessoais e que já realizei ao longo da minha
-              trajetória como programador front-end.
+              trajetória como programador.
             </p>
             <div className="absolute left-1/2 top-3 z-0 h-10 w-10 rounded-lg bg-blue-400/10" />
           </div>
