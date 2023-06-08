@@ -30,7 +30,9 @@ export function Hero() {
             </a>
           </div>
         </div>
-        <div className="basis-1/2"></div>
+        <div className="basis-1/2">
+          
+        </div>
       </div>
 
     </section>
