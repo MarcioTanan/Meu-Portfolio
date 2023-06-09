@@ -3,16 +3,16 @@ import { HiAcademicCap, HiCodeBracketSquare } from "react-icons/hi2"
 export function Skills() {
   const educations = [
     {
-      name: "Curso de Desenvolvimento Web Full Stack | Dev Samurai",
+      name: "Discover's path Conectar | Rocketseat",
     },
     {
-      name: "Curso de Desenvolvimento Mobile | Dev Samurai",
+      name: "Discover's path Fundamentar| Rocketseat",
     },
     {
-      name: "Curso de Desenvolvimento Mobile | Dev Samurai",
+      name: "Discover's path Especializar| Rocketseat",
     },
     {
-      name: "Curso de Desenvolvimento Mobile | Dev Samurai",
+      name: "Sistemas de Informação | Universidade Nove de Julho",
     },
   
   ]
