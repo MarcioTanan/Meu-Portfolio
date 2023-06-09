@@ -3,51 +3,51 @@ import { HiArrowTopRightOnSquare } from "react-icons/hi2"
 export function Projects() {
   const projects = [
     {
-      title: "Projeto 1",
-      description: "Descrição do projeto 1",
+      title: "Rocket-Notes",
+      description: "Editor de notas",
       image:
-        "https://images.unsplash.com/photo-1487014679447-9f8336841d58?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1605&q=80",
-      link: "#",
+        "https://i.imgur.com/PAa28SH.png",
+      link: "https://rocket-note.netlify.app/",
       colSpan: "col-span-1",
     },
     {
-      title: "Projeto 2",
+      title: "Explorer Foods",
       description: "Descrição do projeto 2",
       image:
-        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHdlYnNpdGVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-      link: "#",
+        "https://i.imgur.com/BOBTRBA.png",
+      link: "https://explorer-foods.netlify.app/",
       colSpan: "col-span-1",
     },
     {
-      title: "Projeto 3",
-      description: "Descrição do projeto 3",
+      title: "Projeto Advocacia",
+      description: "Modelo de site para advogados ",
       image:
-        "https://media.istockphoto.com/id/1305995602/photo/responsive-floating-responsive-design.jpg?b=1&s=170667a&w=0&k=20&c=uFqBz27v_B0UxcslnvZxd9c0D9eJAef7veRZf6b-v-A=",
-      link: "#",
+        "https://i.imgur.com/TZ0E7jk.png",
+      link: "https://marciotanan.github.io/Projeto-Advocacia/",
       colSpan: "col-span-1",
     },
     {
-      title: "Projeto 4",
-      description: "Descrição do projeto 4",
+      title: "Super Mario",
+      description: "Landing Super Mario",
       image:
-        "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-      link: "#",
+        "https://i.imgur.com/xC1o4T3.png",
+      link: "https://marciotanan.github.io/Projeto-Super-Mario/",
       colSpan: "col-span-1",
     },
     {
-      title: "Projeto 5",
-      description: "Descrição do projeto 5",
+      title: "Focus Timer",
+      description: "Timer Pomodoro",
       image:
-        "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bW9iaWxlJTIwYXBwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-      link: "#",
+        "https://i.imgur.com/Vfw5gQM.png",
+      link: "https://timerfocus.netlify.app/",
       colSpan: "col-span-1",
     },
     {
-      title: "Projeto 6",
-      description: "Descrição do projeto 4",
+      title: "Projeto Social",
+      description: "Projeto Rede",
       image:
-        "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-      link: "#",
+        "https://i.imgur.com/26bq9Mt.jpeg",
+      link: "https://marciotanan.github.io/projeto-social/",
       colSpan: "col-span-1",
     },
   ]
