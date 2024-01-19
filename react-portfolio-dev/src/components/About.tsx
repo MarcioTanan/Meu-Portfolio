@@ -41,7 +41,7 @@ export function About() {
                       href="tel:+551299999999"
                       className="underline hover:text-blue-800"
                     >
-                      +55 13 97426-3381
+                      +55 13 99142-3249
                     </a>
                   </td>
                 </tr>
