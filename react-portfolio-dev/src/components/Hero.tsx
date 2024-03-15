@@ -25,7 +25,8 @@ export function Hero() {
             </a>
             <span className="italic text-gray-500"> ou </span>
             <a
-              href="#"
+              href="./././public/images/MarcioVitae2024.docx"
+              download
               className="button flex items-center gap-2 text-gray-600 hover:text-gray-900"> <HiDownload /> Baixe meu CV
             </a>
           </div>
