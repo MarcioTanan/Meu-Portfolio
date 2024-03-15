@@ -43,7 +43,7 @@ export function Contact() {
   const contacts = [
     {
       name: "WhatsApp",
-      description: "+55 13 97426-3381",
+      description: "+55 13 99142-3249",
       link: "https://wa.me/5513991423249?text=Olá...",
       icon: <FaWhatsapp className="h-10 w-10" />,
     },
